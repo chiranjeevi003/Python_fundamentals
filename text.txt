@@ -5,6 +5,6 @@
 5. Atmosphere: Possesses air for breathing.
 6. Rotation: Rotates once a day for day and night.
 7. Revolution: Orbits the sun in 365.25 days.
-8. Natural Satellite: The Moon is Earth's only satellite.
+8. Natural Satellite: The Moon is Earth's only natural satellite.
 9. Geology: Contains mountains, oceans, and forests.
 10. Age: Formed roughly 4.5 billion years ago.
